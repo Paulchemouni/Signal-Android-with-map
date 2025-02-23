@@ -10,7 +10,7 @@ My goal with this fork is to implement an interactive map like the Snapchat one 
 - Share your location with your contacts
 - Manage who can see your location
 - Manage the visibility of people that decided share you theirs with you
-
+<br>
 <details>
   <summary><strong>Legal things</strong></summary><br>
   
