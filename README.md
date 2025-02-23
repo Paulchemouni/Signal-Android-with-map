@@ -1,4 +1,4 @@
-# Fork of [Signal Android](https://github.com/signalapp/Signal-Android), with an implementation of an interactive map like the Snapchat one.
+## Fork of [Signal Android](https://github.com/signalapp/Signal-Android), with an implementation of an interactive map like the Snapchat one.
 
 Signal is a simple, powerful, open-source and secure messenger.
 
