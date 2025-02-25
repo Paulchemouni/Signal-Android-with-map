@@ -3,7 +3,7 @@
 Signal is a simple, powerful, open-source and secure messenger.
 
 My goal with this fork is to implement an interactive map like the Snapchat one on a new tab in the Android app.
-I'm hesitating to implement zood location sharing instead of building a new location sharing system.
+I'm willing to use [zood location](https://github.com/zood/george).
 
 **What I want this feature to be able to do :**
 
